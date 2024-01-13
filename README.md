@@ -1,8 +1,9 @@
 # ChromeExtension-StockInfo
-  1. What to do
+  1. What to do     
   It provides easy and fast access to the web site that has neat and correct company information.
 
-  2. How to use
+  2. How to use     
+  After downloading and register it as chrome extension,
   In the chrome web browser, 
   hightlight the comapany name you want to know about
   then right-click mouse button to show context menu.
