@@ -1,14 +1,13 @@
 {
     "name": "이회사 어때",
     "description": "회사명을 하일라이트 시키고 클릭앤고",
-    "version": "1.0",
+    "version": "1.0.1",
     "manifest_version": 3,
     "background": {
         "service_worker": "background.js"
     },
     "permissions":[
-        "contextMenus",
-        "tabs"
+        "contextMenus"
     ],
     "icons": {
         "16": "icon/icon_16x16.png",
