@@ -1,12 +1,13 @@
 # ChromeExtension-StockInfo
-  #What to do
+  1. What to do
   It provides easy and fast access to the web site that has neat and correct company information.
 
-  #How to use
+  2. How to use
   In the chrome web browser, 
   hightlight the comapany name you want to know about
   then right-click mouse button to show context menu.
-  ![image](https://github.com/SomersetMaugham/ChromeExtension-StockInfo/assets/56792554/e084b37c-7f6c-48b1-8ce4-5a305878b6f0)
+  ![image](https://github.com/SomersetMaugham/ChromeExtension-StockInfo/assets/56792554/1efa515f-c74d-41cd-9956-e846a7b74328)
+
 
   Then select the '이회사 어때@COMPANY WISE'menu.
   Boom!
