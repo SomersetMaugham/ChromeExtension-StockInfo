@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>관련뉴스</title>
+  <link rel="stylesheet" href="news.css">
+</head>
+<body>
+  <div class="dashboard-container">
+    <header>
+      <div id="company-name" class="company-name"></div>
+      <div class="company-sub">
+        <div id="company-code" class="company-code"></div>
+        <a id="company-info-link" class="header-link" target="_blank" hidden>회사정보 보기</a>
+      </div>
+    </header>
+
+    <section class="news-section">
+      <h2>최근 뉴스</h2>
+      <div id="news-container" class="news-container">
+        <div class="loading-news">뉴스를 불러오는 중...</div>
+      </div>
+      <div class="more-row">
+        <button id="more-button" class="more-button" type="button" hidden>뉴스 더 보기</button>
+      </div>
+    </section>
+
+    <footer>
+      <div class="disclaimer">
+        <p>주의: 이 정보는 투자 참고용으로만 제공되며, 정확성을 보장하지 않습니다. 모든 투자 결정에 대한 책임은 투자자 본인에게 있습니다.</p>
+      </div>
+    </footer>
+  </div>
+
+  <script src="news.js"></script>
+</body>
+</html>
